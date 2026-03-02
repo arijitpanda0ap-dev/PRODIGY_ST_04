@@ -24,3 +24,9 @@ All test cases executed successfully on BrowserStack cloud platform.
 
 ## Proof
 Screenshots of build status, session details, video playback, and capabilities are attached in the screenshots folder.
+
+## Author
+
+Arijit Panda  
+Software Testing Intern  
+Prodigy InfoTech
